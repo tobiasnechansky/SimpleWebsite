@@ -1,0 +1,26 @@
+:nofooter:
+:icons: font
+
+= A simple Website
+
+Create a first, simple website.
+
+== What
+
+Take a look at the provided PDF and video, both show the website you have to build yourself -- on static, the other also shows the `hover` effect.
+
+Recreate this website _exactly_!
+
+WARNING: _Validate_ your website before handing it in! You _may_ ignore warnings relating to `h1`, because we are explicitly styling it with CSS this time.
+
+== How
+
+You will need two files:
+
+. `index.html`
+. `style.css`
+
+The content of the website describes how to format it.
+If it speaks of 'some' margin or padding try which value fits best.
+
+CAUTION: _Always_ use relative values like `%` or `rem`
